@@ -1,6 +1,6 @@
 ### competitive-pricing-analysis-web-scraping
 
-# Competitive Pricing Analysis Using Web Scraping
+# Competitive Pricing Analysis for Personal Care E-Commerce
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
