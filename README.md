@@ -4,6 +4,8 @@
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
+📄 Report available in: English - Spanish
+
 This project develops a Python-based web scraping pipeline to automate competitor price tracking for personal care products in the Argentine e-commerce market.
 
 The objective was to replace manual price monitoring with an automated, structured data collection system that enables competitive pricing analysis, discount benchmarking, and market positioning evaluation.
