@@ -64,4 +64,4 @@ The project documents ethical and legal considerations, using only publicly acce
 
 This analysis simulates a real-world competitive intelligence scenario where automated data pipelines support dynamic pricing strategy, promotional benchmarking, and commercial opportunity detection.
 
-Tools Used: Python / Requests / BeautifulSoup / Data Structuring / Web Scraping Pipeline Design / Competitive Intelligence Analysis
+Tools Used: Python / Generative AI / Requests / BeautifulSoup / Data Structuring / Web Scraping Pipeline Design / Competitive Intelligence Analysis
